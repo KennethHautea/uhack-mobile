@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App1"
+             Title="Agripital"
+             x:Class="App1.MainPage">
+
+    <StackLayout>
+        <Label x:Name="username"/>
+        <Grid Grid.Row="3">
+            <Button Text="Fertilizer" FontSize="10" Clicked="tofert"/>
+            <Button Grid.Column="1" Text="Seedlings" FontSize="10" Clicked="toseed"/>
+            <Button Grid.Column="2" Text="Insecticide" FontSize="8" Clicked="toinsect"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Button Text="Herbicide" Clicked="toherbi"/>
+            <Button Grid.Column="1" Text="Pesticide" Clicked="topest"/>
+        </Grid>
+        <Button Text="Create Account" Clicked="regAccount"/>
+        <Button x:Name="logbtn" Text="Login Account" Clicked="logAccount"/>
+        <Button x:Name="outbtn" Text="Logout" Clicked="logOut" IsVisible="False"/>
+        <Button x:Name="viewbtn" Text="View Orders" Clicked="vieword" IsVisible="False"/>
+        <Button Text="Cart" Clicked="tocart"/>
+    </StackLayout>
+    
+</ContentPage>

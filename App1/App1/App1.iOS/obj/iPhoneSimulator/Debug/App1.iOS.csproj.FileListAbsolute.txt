@@ -1,0 +1,17 @@
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\App.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\MainPage.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\RegisterAccount.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\Login.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\addproduct.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\fert.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\carting.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\View.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\loanorcp.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\loanpage.xaml.g.cs
+D:\C#\MOBILE APPLICATION c#\Agripital\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\App1.iOS.csproj.CoreCompileInputs.cache

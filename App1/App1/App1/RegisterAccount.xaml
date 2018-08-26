@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.RegisterAccount">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Name" x:Name="name"/>
+            <Entry Placeholder="Username" x:Name="username"/>
+            <Entry Placeholder="Password" x:Name="password" IsPassword="True"/>
+            <Entry Placeholder="Address" x:Name="address"/>
+            <Entry Placeholder="Contact" x:Name="contact"/>
+            <Picker x:Name="typepicker" Title="Customer/Seller"/>
+            <Button Text="Register" Clicked="register"/>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.addproduct">
+    <ContentPage.Content>
+        <StackLayout>
+            <Picker x:Name="typepicker" Title="Select Type"/>
+            <Entry x:Name="productname" Placeholder="Product Name"/>
+            <Entry x:Name="description" Placeholder="Description"/>
+            <Entry x:Name="price" Placeholder="Price"/>
+            <Button Text="Add Product" Clicked="productadd"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
